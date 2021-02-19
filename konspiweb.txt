@@ -9,7 +9,7 @@
 0.0.0.0 exopolitika.cz
 0.0.0.0 badatel.net
 0.0.0.0 czechfreepress.cz
-0.0.0.0 stratenaeuropa.sk,
+0.0.0.0 stratenaeuropa.sk
 0.0.0.0 bnw-nwo.wz.cz
 0.0.0.0 protiprud.sk
 0.0.0.0 protiproud.cz
@@ -24,7 +24,7 @@
 0.0.0.0 veksvetla.cz
 0.0.0.0 sho.sk
 0.0.0.0 tadesco.org
-0.0.0.0 nadhlad.com,
+0.0.0.0 nadhlad.com
 0.0.0.0 pravdive.eu
 0.0.0.0 bezpolitickekorektnosti.cz
 0.0.0.0 freeglobe.cz
