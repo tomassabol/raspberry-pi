@@ -208,7 +208,7 @@
 ||tyzdennikkoment.sk^
 ||konzervativnyweb.sk^
 ||konzervativnyweb.sk^
+||hlavnespravy.sk^$empty
 ||hlavnespravy.sk^
 ||https://www.hlavnespravy.sk^
 ||www.hlavnespravy.sk^
-||hlavnespravy.sk^$empty
