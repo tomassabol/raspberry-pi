@@ -209,3 +209,5 @@
 ||konzervativnyweb.sk^
 ||konzervativnyweb.sk^
 ||hlavnespravy.sk^
+||https://www.hlavnespravy.sk^
+||www.hlavnespravy.sk^
