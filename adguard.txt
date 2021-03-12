@@ -211,3 +211,4 @@
 ||hlavnespravy.sk^
 ||https://www.hlavnespravy.sk^
 ||www.hlavnespravy.sk^
+||hlavnespravy.sk^$empty
