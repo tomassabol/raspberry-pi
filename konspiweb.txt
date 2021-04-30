@@ -210,3 +210,4 @@
 0.0.0.0 hlavnespravy.sk
 0.0.0.0 topky.sk
 0.0.0.0 infovojna.sk
+0.0.0.0 inenoviny.sk
